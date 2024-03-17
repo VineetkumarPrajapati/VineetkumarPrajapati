@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineetkumar Prajapati</h1>
-<h3 align="center">I am a skilled data analyst who can use Python and SQL to understand complex data and make helpful suggestions. I am good at organizing data, doing statistical analysis, and creating visual reports using tools like Pandas, NumPy, and Tableau.I know how to test ideas, predict outcomes. I am good at communicating and solving problems, and I am always learning new things to keep up with changes in my field. I love using data to make good decisions and improve how things work for a company.</h3>
+<h3 align="center">I am a skilled data analyst who can use Python and SQL to understand complex data and make helpful suggestions. I am good at organizing data, doing statistical analysis, and creating visual reports using tools like Pandas, NumPy, and Tableau.I know how to test ideas, predict outcomes. I am good at communicating and solving problems, and I am always learning new things to keep up with changes in my field. I love using data to make good decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarprajapati" /> </p>
 
