@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarprajapati" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **vineetprajapati666@gmail.com**
 
