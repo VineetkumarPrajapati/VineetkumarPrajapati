@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vineetkumar Prajapati</h1>
-<h3 align="center">About me, I am a skilled data analyst who can use Python and SQL to understand complex data and make helpful suggestions. I am good at organizing data, doing statistical analysis, and creating visual reports using tools like Pandas, NumPy, and Tableau.I know how to test ideas, predict outcomes. I am good at communicating and solving problems, and I am always learning new things to keep up with changes in my field. Additionally, I have completed my Bachelar of Computer Science & MS in Computer Science / Specialization in Data Analyst ..</h3>
+<h3 align="center">About me, I'm a Data Analyst with a passion for solving business problems using data-driven insights.
+
+With expertise in Excel, Power BI, SQL, Tableau, and Python, I specialize in creating interactive dashboards to tell stories that drive decisions. Quick learner with strong problem-solving and communication skills, I have completed my Bachelar of Computer Science & MS in Computer Science / Specialization in Data Analyst ..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarprajapati" /> </p>
-
-- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **vineetprajapati666@gmail.com**
 
