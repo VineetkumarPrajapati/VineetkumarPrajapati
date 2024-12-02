@@ -12,9 +12,10 @@ With expertise in Excel, Power BI, SQL, Tableau, and Python, I specialize in cre
 <img align="right" alt="Data Analyst" width="500" src="https://www.webmdpracticepro.com/wp-content/uploads/sites/13/2021/05/Feature_SEOImprovementPlan_750x500.png">
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vineet-prajapati-664279259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vineet-prajapati-664279259" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@masterscooking_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@masterscooking_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vineet-kumar-prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-prajapati/" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/vineet prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vineet prajapati" height="30" width="40" /></a>
+
 <a href="https://www.hackerearth.com/@vineetprajapati1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vineetprajapati1" height="30" width="40" /></a>
 </p>
 
