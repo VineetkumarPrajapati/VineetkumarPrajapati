@@ -13,6 +13,6 @@ With expertise in Excel, Power BI, SQL, Tableau, and Python, I specialize in cre
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vineet-kumar-prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-prajapati/" height="30" width="40" /></a>
-<a href="https://www.w3schools.com/sql/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.w3schools.com/sql/" height="30" width="40" /></a>
+<a href="https://www.w3schools.com/sql/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/sql-in-alt.svg" alt="https://www.w3schools.com/sql/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vineet prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vineet prajapati" height="30" width="40" /></a>
 </p>
